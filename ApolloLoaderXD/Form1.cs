@@ -17,5 +17,33 @@ namespace ApolloLoaderXD
         {
             InitializeComponent();
         }
+
+        private void Home_Click(object sender, EventArgs e)
+        {
+            button1.ForeColor = Color.FromArgb(73, 65, 163);
+            button2.ForeColor = Color.FromArgb(73, 65, 163);
+            Home.ForeColor = Color.FromArgb(113, 65, 209);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Home.ForeColor = Color.FromArgb(73, 65, 163);
+            button2.ForeColor = Color.FromArgb(73, 65, 163);
+            button1.ForeColor = Color.FromArgb(113, 65, 209);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Home.ForeColor = Color.FromArgb(73, 65, 163);
+            button1.ForeColor = Color.FromArgb(73, 65, 163);
+            button2.ForeColor = Color.FromArgb(113, 65, 209);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            button1.ForeColor = Color.FromArgb(73, 65, 163);
+            button2.ForeColor = Color.FromArgb(73, 65, 163);
+            Home.ForeColor = Color.FromArgb(113, 65, 209);
+        }
     }
 }

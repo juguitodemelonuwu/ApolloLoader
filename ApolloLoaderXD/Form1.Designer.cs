@@ -86,6 +86,7 @@
             this.Home.Text = "Home";
             this.Home.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
             this.Home.UseVisualStyleBackColor = true;
+            this.Home.Click += new System.EventHandler(this.Home_Click);
             // 
             // button1
             // 
@@ -102,6 +103,7 @@
             this.button1.Text = "Credits";
             this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -118,6 +120,7 @@
             this.button2.Text = "Other Clients";
             this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form1
             // 
@@ -136,6 +139,7 @@
             this.ShowTitle = false;
             this.Text = "FORM1";
             this.TextColor = System.Drawing.Color.White;
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.flowLayoutPanel1.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

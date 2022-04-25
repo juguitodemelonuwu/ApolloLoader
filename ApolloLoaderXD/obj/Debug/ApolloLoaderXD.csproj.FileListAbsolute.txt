@@ -11,3 +11,16 @@ C:\Users\Administrator\source\repos\ApolloLoaderXD\ApolloLoaderXD\obj\Debug\Apol
 C:\Users\Administrator\source\repos\ApolloLoaderXD\ApolloLoaderXD\obj\Debug\ApolloLoaderXD.csproj.CopyComplete
 C:\Users\Administrator\source\repos\ApolloLoaderXD\ApolloLoaderXD\obj\Debug\ApolloLoaderXD.exe
 C:\Users\Administrator\source\repos\ApolloLoaderXD\ApolloLoaderXD\obj\Debug\ApolloLoaderXD.pdb
+C:\Users\Administrator\Documents\GitHub\ApolloLoader\ApolloLoaderXD\bin\Debug\ApolloLoaderXD.exe.config
+C:\Users\Administrator\Documents\GitHub\ApolloLoader\ApolloLoaderXD\bin\Debug\ApolloLoaderXD.exe
+C:\Users\Administrator\Documents\GitHub\ApolloLoader\ApolloLoaderXD\bin\Debug\ApolloLoaderXD.pdb
+C:\Users\Administrator\Documents\GitHub\ApolloLoader\ApolloLoaderXD\bin\Debug\MetroSet UI.dll
+C:\Users\Administrator\Documents\GitHub\ApolloLoader\ApolloLoaderXD\obj\Debug\ApolloLoaderXD.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\ApolloLoader\ApolloLoaderXD\obj\Debug\ApolloLoaderXD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\GitHub\ApolloLoader\ApolloLoaderXD\obj\Debug\ApolloLoaderXD.Form1.resources
+C:\Users\Administrator\Documents\GitHub\ApolloLoader\ApolloLoaderXD\obj\Debug\ApolloLoaderXD.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\ApolloLoader\ApolloLoaderXD\obj\Debug\ApolloLoaderXD.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\ApolloLoader\ApolloLoaderXD\obj\Debug\ApolloLoaderXD.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\ApolloLoader\ApolloLoaderXD\obj\Debug\ApolloLoaderXD.csproj.CopyComplete
+C:\Users\Administrator\Documents\GitHub\ApolloLoader\ApolloLoaderXD\obj\Debug\ApolloLoaderXD.exe
+C:\Users\Administrator\Documents\GitHub\ApolloLoader\ApolloLoaderXD\obj\Debug\ApolloLoaderXD.pdb

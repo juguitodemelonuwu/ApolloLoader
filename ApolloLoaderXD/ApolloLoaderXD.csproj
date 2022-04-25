@@ -100,5 +100,38 @@
   <ItemGroup>
     <None Include="Resources\net.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new selfie ahh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a_c40d720cbe534d516bcbb94d0acb1ab6.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a_c40d720cbe534d516bcbb94d0acb1ab61.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32072093.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a_c40d720cbe534d516bcbb94d0acb1ab62.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ezgif.com-gif-maker_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ezgif.com-gif-maker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a_c40d720cbe534d516bcbb94d0acb1ab63.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c5a8e47c0112d85f2217ec6cbde66256.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
